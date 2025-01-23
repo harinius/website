@@ -1,14 +1,1 @@
-div{
-width:100px;
-height:100px;
-animatiomn-name:square;
-animation duration :7s;}
 
-}
-@keyframes{
-0%{background-color:red;}
-25%{background-color:pink;}
-50%{background-color:green;}
-75%{background-color:yellow;}
-100%{background-color:black;}
-}
